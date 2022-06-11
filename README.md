@@ -9,7 +9,7 @@
 - 💬 A student
 - 🔭 I’m currently working on Pedestrian trajectory prediction
 - 🌱 I’m currently learning Java/Vue/MachineLearning/DeepLearning
-- 😄 Pronouns: Why you always in a mood?
+- 😄 Resume: <a herf:"https://saodisenga.github.io/index/">Link~</a>
 <!-- - ⚡ Fun fact: ... -->
 <!-- - 👯 I’m studying at TYUT -->
 <!-- - 📫 How to reach me: ... -->
