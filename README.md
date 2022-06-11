@@ -9,7 +9,7 @@
 - 💬 A student
 - 🔭 I’m currently working on Pedestrian trajectory prediction
 - 🌱 I’m currently learning Java/Vue/MachineLearning/DeepLearning
-- 😄 Resume: <a herf:"https://saodisenga.github.io/index/">Link~</a>
+- 😄 Resume: <a href="https://saodisenga.github.io/index/" target="_blank" class="badge badge-info">Link`</a>
 <!-- - ⚡ Fun fact: ... -->
 <!-- - 👯 I’m studying at TYUT -->
 <!-- - 📫 How to reach me: ... -->
